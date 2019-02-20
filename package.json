@@ -1,0 +1,22 @@
+{
+  "name": "allflux",
+  "version": "1.0.0",
+  "description": "aws-lex-lambda-flux state management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lex",
+    "lambda",
+    "flux",
+    "redux"
+  ],
+  "author": "ashok kancherla <ash.iitm@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.1",
+    "request": "^2.88.0"
+  }
+}
